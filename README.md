@@ -1,7 +1,11 @@
 Mathematical Computing 
+
 Course Pages
+
 https://github.com/alon-muhame/WITI-CS-Maths
+
 https://witi.ac.ug [WITI students only]
+
 In future the course will have recorded videos on Youtube and WITI e-learning systems
 
 Course Description
@@ -19,8 +23,10 @@ The Key topics to cover include:
 This is a course also, very much focused on writing and producing machine readable code for early learners in computer science . By the end of the term, my hope is for three things:
 
 The Course aims to familize students to core foundational mathematcis from a more practical and hands-on experience Python. The Course will make use of Jupyter notebooks for learning and teaching thoughout the course.
- To introduce students to jupyter notebooks for learning and coding sharing
- To introduce students to foundational mathematics for computer science
+
+To introduce students to jupyter notebooks for learning and coding sharing
+
+To introduce students to foundational mathematics for computer science
 
 There will be problem sets every week. These will involve both theoretical calculations and computer exercises in which you will be asked to write small blocks of code to complete tasks in Probability and Linear Algebra. All these will be worked in Jupyter Notebook. 
 
