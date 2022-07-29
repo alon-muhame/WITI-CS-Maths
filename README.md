@@ -27,15 +27,18 @@ There will be problem sets every week. These will involve both theoretical calcu
 You can work together on the problem sets and discuss them with classmates, but you need to write up the results individually and hand them in separately. Grades will be based on the problem sets, divided evenly over the problem sets.
 
 By the end of this course, students will be able to:
- Use and apply counting and probability techniques. Students should be comfortable with basic ideas in probability and counting, and applying them in easy real-life settings (for example, counting arrangements of items, computing expectation of a discrete random variable - with an explicit and implicit application to computer science using Jupyter notebooks).
 
- Communicate mathematically. Students should be able to read and interpret basic mathematical symbols and notation (for example, standard terminology of numbers,
+Use and apply counting and probability techniques. Students should be comfortable with basic ideas in probability and counting, and applying them in easy real-life settings (for example, counting arrangements of items, computing expectation of a discrete random variable - with an explicit and implicit application to computer science using Jupyter notebooks).
+
+ Communicate mathematically. Students should be able to read and interpret basic mathematical symbols and notation (for example, standard terminology of numbers,
 sets, functions, strings, trees and graphs), and be capable of translating and communicating their own ideas into mathematical language.
 
- Linear algebra notation understanding and be able to complete matrix computations (be able to complete matrix addition, multiplication, subtraction).
+ Linear algebra notation understanding and be able to complete matrix computations (be able to complete matrix addition, multiplication, subtraction).
 
 Introduction to Numpy R: https://numpy.org/
+
 Jupyter Notebook for teaching & learning
+
 Guidance on Data Visualization: https://socviz.co/
 
 Main References:
